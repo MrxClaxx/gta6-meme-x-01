@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/MrxClaxx/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/MrxClaxx/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A GTA 6 launch-week meme: while everyone is playing GTA 6 in Leonida, the make.fun ghost is out earning real money on make.fun.
+Round-2 entry for the GTA 6 meme bounty: a Vice City parking violation ticket. Parked 13 years waiting for GTA VI — fine $79.99 + 13 years of your life. The make.fun ghost wrote the ticket.
 
 ## Run it
 
